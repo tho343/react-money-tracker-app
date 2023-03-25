@@ -16,7 +16,7 @@ root.render(
   <TrackerProvider>
   <React.StrictMode>
     
-    <BrowserRouter>
+    <BrowserRouter >
     <App />
     </BrowserRouter>
    
