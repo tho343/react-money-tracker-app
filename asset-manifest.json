@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-money-tracker-app/static/css/main.4b69d7d8.css",
-    "main.js": "/react-money-tracker-app/static/js/main.2dff6f07.js",
+    "main.js": "/react-money-tracker-app/static/js/main.64b710f6.js",
     "static/js/787.fa798951.chunk.js": "/react-money-tracker-app/static/js/787.fa798951.chunk.js",
     "static/media/grocery.svg": "/react-money-tracker-app/static/media/grocery.d34be9b290d739f27d8ed3d9f3ac03bd.svg",
     "static/media/expenseBannerImage.svg": "/react-money-tracker-app/static/media/expenseBannerImage.97fa535783739e021033023e04a041f0.svg",
@@ -13,11 +13,11 @@
     "index.html": "/react-money-tracker-app/index.html",
     "static/media/logo.svg": "/react-money-tracker-app/static/media/logo.99d5b9138a1a64cc6858cdac9a9d3bd4.svg",
     "main.4b69d7d8.css.map": "/react-money-tracker-app/static/css/main.4b69d7d8.css.map",
-    "main.2dff6f07.js.map": "/react-money-tracker-app/static/js/main.2dff6f07.js.map",
+    "main.64b710f6.js.map": "/react-money-tracker-app/static/js/main.64b710f6.js.map",
     "787.fa798951.chunk.js.map": "/react-money-tracker-app/static/js/787.fa798951.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b69d7d8.css",
-    "static/js/main.2dff6f07.js"
+    "static/js/main.64b710f6.js"
   ]
 }
