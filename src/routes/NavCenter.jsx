@@ -12,7 +12,7 @@ export default function NavCenter() {
     <Fragment>
       <div className='sidebar-container'>
         <div className="sidebar-header">
-          <Link to="/" >
+          <Link to="/react-money-tracker-app" >
             <img src={logo} alt="logo with two circles"></img>
           </Link>
 
