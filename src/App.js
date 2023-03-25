@@ -10,10 +10,10 @@ function App() {
   return (
     <Routes>
 
-      <Route exact path="/" element={<NavCenter/>}>
+      <Route exact path="/react-money-tracker-app" element={<NavCenter/>}>
         <Route index element={<Home/>}/>
-        <Route path="income" element={<Income/>}/>
-        <Route path="expenses" element={<Expenses/>}/>
+        <Route path="/react-money-tracker-app/income" element={<Income/>}/>
+        <Route path="/react-money-tracker-app/expenses" element={<Expenses/>}/>
       </Route>
     </Routes>   
     
