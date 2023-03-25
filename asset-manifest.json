@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/react-money-tracker-app/static/css/main.073c9b0a.css",
-    "main.js": "/react-money-tracker-app/static/js/main.4c397ca6.js",
+    "main.css": "/react-money-tracker-app/static/css/main.4b69d7d8.css",
+    "main.js": "/react-money-tracker-app/static/js/main.a31d6ec4.js",
     "static/js/787.fa798951.chunk.js": "/react-money-tracker-app/static/js/787.fa798951.chunk.js",
+    "static/media/grocery.svg": "/react-money-tracker-app/static/media/grocery.d34be9b290d739f27d8ed3d9f3ac03bd.svg",
+    "static/media/expenseBannerImage.svg": "/react-money-tracker-app/static/media/expenseBannerImage.97fa535783739e021033023e04a041f0.svg",
+    "static/media/incomeBannerImage.svg": "/react-money-tracker-app/static/media/incomeBannerImage.fc831d4e80957877b0cc51875d27ec6a.svg",
+    "static/media/eating.svg": "/react-money-tracker-app/static/media/eating.e3eb15a990dd52461b2e70a14a5e160b.svg",
+    "static/media/Plain credit card-pana.svg": "/react-money-tracker-app/static/media/Plain credit card-pana.947ad4165b5eb673346d.svg",
+    "static/media/rent.svg": "/react-money-tracker-app/static/media/rent.947ad4165b5eb673346d1e6427ac51fc.svg",
+    "static/media/shopping.svg": "/react-money-tracker-app/static/media/shopping.f505b44505b93425d79451593354f664.svg",
     "index.html": "/react-money-tracker-app/index.html",
-    "main.073c9b0a.css.map": "/react-money-tracker-app/static/css/main.073c9b0a.css.map",
-    "main.4c397ca6.js.map": "/react-money-tracker-app/static/js/main.4c397ca6.js.map",
+    "static/media/logo.svg": "/react-money-tracker-app/static/media/logo.99d5b9138a1a64cc6858cdac9a9d3bd4.svg",
+    "main.4b69d7d8.css.map": "/react-money-tracker-app/static/css/main.4b69d7d8.css.map",
+    "main.a31d6ec4.js.map": "/react-money-tracker-app/static/js/main.a31d6ec4.js.map",
     "787.fa798951.chunk.js.map": "/react-money-tracker-app/static/js/787.fa798951.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.4c397ca6.js"
+    "static/css/main.4b69d7d8.css",
+    "static/js/main.a31d6ec4.js"
   ]
 }
