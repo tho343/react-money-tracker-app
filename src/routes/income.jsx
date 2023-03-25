@@ -15,7 +15,6 @@ export default function Income(props) {
 
       <div className="main">
         <div className="expenses-container">
-
           <div className="expense-summary-card">
             <div className="image-banner-container">
               <img src={incomeBannerImage} />
