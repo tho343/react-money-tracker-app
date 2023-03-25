@@ -10,7 +10,7 @@ function App() {
   return (
     <Routes>
 
-      <Route path="/" element={<NavCenter/>}>
+      <Route exact path="/" element={<NavCenter/>}>
         <Route index element={<Home/>}/>
         <Route path="income" element={<Income/>}/>
         <Route path="expenses" element={<Expenses/>}/>
