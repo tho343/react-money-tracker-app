@@ -1,7 +1,7 @@
 {
   "name": "react-money-tracker-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://tho343.github.io/react-money-tracker-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
