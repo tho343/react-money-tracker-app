@@ -20,13 +20,13 @@ export default function NavCenter() {
         </div>
 
         <div className={showNavMenu ? "nav-links-container show-links" : "nav-links-container"}>
-          <Link onClick={() => setShowNavMenu(false)} className="nav-link" to="/" >
+          <Link onClick={() => setShowNavMenu(false)} className="nav-link" to="/react-money-tracker-app" >
             home
           </Link>
-          <Link onClick={() => setShowNavMenu(false)} className="nav-link" to="/income">
+          <Link onClick={() => setShowNavMenu(false)} className="nav-link" to="/react-money-tracker-app/income">
             income
           </Link>
-          <Link onClick={() => setShowNavMenu(false)} className="nav-link" to="/expenses">
+          <Link onClick={() => setShowNavMenu(false)} className="nav-link" to="/react-money-tracker-app/expenses">
             expenses
           </Link>
         </div>
